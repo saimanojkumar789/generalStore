@@ -1,0 +1,11 @@
+form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#items{
+    justify-content: center;
+    text-align: center;
+    margin-left: 20em;
+}
